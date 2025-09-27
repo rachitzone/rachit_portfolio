@@ -1,0 +1,20 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "A playful, interactive portfolio inspired by jhey.dev—but uniquely yours. Built with a modern React frontend and a Django REST API backend.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rachitzone/portfolio.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rachitzone/portfolio.github.io/issues"
+  },
+  "homepage": "https://github.com/rachitzone/portfolio.github.io#readme"
+}
